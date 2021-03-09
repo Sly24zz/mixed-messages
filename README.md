@@ -1,3 +1,3 @@
 # mixed-messages
 codecademy project 
-A message generator 
+A message generator in javascript.
